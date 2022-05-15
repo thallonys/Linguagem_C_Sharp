@@ -1,0 +1,15 @@
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\obj\Debug\net6.0\Comparison.csproj.AssemblyReference.cache
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\obj\Debug\net6.0\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\obj\Debug\net6.0\Comparison.AssemblyInfoInputs.cache
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\obj\Debug\net6.0\Comparison.AssemblyInfo.cs
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\obj\Debug\net6.0\Comparison.csproj.CoreCompileInputs.cache
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\bin\Debug\net6.0\Comparison.exe
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\bin\Debug\net6.0\Comparison.deps.json
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\bin\Debug\net6.0\Comparison.runtimeconfig.json
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\bin\Debug\net6.0\Comparison.dll
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\bin\Debug\net6.0\Comparison.pdb
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\obj\Debug\net6.0\Comparison.dll
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\obj\Debug\net6.0\refint\Comparison.dll
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\obj\Debug\net6.0\Comparison.pdb
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\obj\Debug\net6.0\Comparison.genruntimeconfig.cache
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Comparison\obj\Debug\net6.0\ref\Comparison.dll

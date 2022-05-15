@@ -1,0 +1,15 @@
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\bin\Debug\net6.0\Addition.exe
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\bin\Debug\net6.0\Addition.deps.json
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\bin\Debug\net6.0\Addition.runtimeconfig.json
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\bin\Debug\net6.0\Addition.dll
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\bin\Debug\net6.0\Addition.pdb
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\obj\Debug\net6.0\Addition.csproj.AssemblyReference.cache
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\obj\Debug\net6.0\Addition.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\obj\Debug\net6.0\Addition.AssemblyInfoInputs.cache
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\obj\Debug\net6.0\Addition.AssemblyInfo.cs
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\obj\Debug\net6.0\Addition.csproj.CoreCompileInputs.cache
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\obj\Debug\net6.0\Addition.dll
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\obj\Debug\net6.0\refint\Addition.dll
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\obj\Debug\net6.0\Addition.pdb
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\obj\Debug\net6.0\Addition.genruntimeconfig.cache
+E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Addition\obj\Debug\net6.0\ref\Addition.dll
