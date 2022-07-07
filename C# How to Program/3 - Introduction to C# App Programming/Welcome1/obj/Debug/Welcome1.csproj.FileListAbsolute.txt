@@ -1,8 +1,0 @@
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Welcome1\bin\Debug\Welcome1.exe.config
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Welcome1\bin\Debug\Welcome1.exe
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Welcome1\bin\Debug\Welcome1.pdb
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Welcome1\obj\Debug\Welcome1.csproj.AssemblyReference.cache
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Welcome1\obj\Debug\Welcome1.csproj.SuggestedBindingRedirects.cache
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Welcome1\obj\Debug\Welcome1.csproj.CoreCompileInputs.cache
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Welcome1\obj\Debug\Welcome1.exe
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\C# How to Program\3 - Introduction to C# App Programming\Welcome1\obj\Debug\Welcome1.pdb

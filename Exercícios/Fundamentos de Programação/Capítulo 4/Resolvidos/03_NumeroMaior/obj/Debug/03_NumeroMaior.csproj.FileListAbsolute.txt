@@ -1,8 +1,0 @@
-E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\01 - Fundamentos de Programação\Capítulo04\Resolvidos\03_NumeroMaior\bin\Debug\03_NumeroMaior.exe.config
-E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\01 - Fundamentos de Programação\Capítulo04\Resolvidos\03_NumeroMaior\bin\Debug\03_NumeroMaior.exe
-E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\01 - Fundamentos de Programação\Capítulo04\Resolvidos\03_NumeroMaior\bin\Debug\03_NumeroMaior.pdb
-E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\01 - Fundamentos de Programação\Capítulo04\Resolvidos\03_NumeroMaior\obj\Debug\03_NumeroMaior.csproj.AssemblyReference.cache
-E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\01 - Fundamentos de Programação\Capítulo04\Resolvidos\03_NumeroMaior\obj\Debug\03_NumeroMaior.csproj.SuggestedBindingRedirects.cache
-E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\01 - Fundamentos de Programação\Capítulo04\Resolvidos\03_NumeroMaior\obj\Debug\03_NumeroMaior.csproj.CoreCompileInputs.cache
-E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\01 - Fundamentos de Programação\Capítulo04\Resolvidos\03_NumeroMaior\obj\Debug\03_NumeroMaior.exe
-E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\01 - Fundamentos de Programação\Capítulo04\Resolvidos\03_NumeroMaior\obj\Debug\03_NumeroMaior.pdb
