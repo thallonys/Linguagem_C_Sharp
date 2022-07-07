@@ -1,0 +1,8 @@
+E:\Users\thall\Desktop\POO\7 - Construindo uma pokédex\bin\Debug\7 - Construindo uma pokédex.exe.config
+E:\Users\thall\Desktop\POO\7 - Construindo uma pokédex\bin\Debug\7 - Construindo uma pokédex.exe
+E:\Users\thall\Desktop\POO\7 - Construindo uma pokédex\bin\Debug\7 - Construindo uma pokédex.pdb
+E:\Users\thall\Desktop\POO\7 - Construindo uma pokédex\obj\Debug\7 - Construindo uma pokédex.csproj.AssemblyReference.cache
+E:\Users\thall\Desktop\POO\7 - Construindo uma pokédex\obj\Debug\7 - Construindo uma pokédex.csproj.SuggestedBindingRedirects.cache
+E:\Users\thall\Desktop\POO\7 - Construindo uma pokédex\obj\Debug\7 - Construindo uma pokédex.csproj.CoreCompileInputs.cache
+E:\Users\thall\Desktop\POO\7 - Construindo uma pokédex\obj\Debug\7 - Construindo uma pokédex.exe
+E:\Users\thall\Desktop\POO\7 - Construindo uma pokédex\obj\Debug\7 - Construindo uma pokédex.pdb

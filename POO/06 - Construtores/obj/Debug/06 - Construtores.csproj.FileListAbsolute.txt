@@ -1,0 +1,8 @@
+E:\Users\thall\Desktop\POO\06 - Construtores\bin\Debug\06 - Construtores.exe.config
+E:\Users\thall\Desktop\POO\06 - Construtores\bin\Debug\06 - Construtores.exe
+E:\Users\thall\Desktop\POO\06 - Construtores\bin\Debug\06 - Construtores.pdb
+E:\Users\thall\Desktop\POO\06 - Construtores\obj\Debug\06 - Construtores.csproj.AssemblyReference.cache
+E:\Users\thall\Desktop\POO\06 - Construtores\obj\Debug\06 - Construtores.csproj.SuggestedBindingRedirects.cache
+E:\Users\thall\Desktop\POO\06 - Construtores\obj\Debug\06 - Construtores.csproj.CoreCompileInputs.cache
+E:\Users\thall\Desktop\POO\06 - Construtores\obj\Debug\06 - Construtores.exe
+E:\Users\thall\Desktop\POO\06 - Construtores\obj\Debug\06 - Construtores.pdb

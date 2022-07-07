@@ -1,0 +1,8 @@
+E:\Users\thall\Desktop\POO\10 - ListandoPokemons\bin\Debug\10 - ListandoPokemons.exe.config
+E:\Users\thall\Desktop\POO\10 - ListandoPokemons\bin\Debug\10 - ListandoPokemons.exe
+E:\Users\thall\Desktop\POO\10 - ListandoPokemons\bin\Debug\10 - ListandoPokemons.pdb
+E:\Users\thall\Desktop\POO\10 - ListandoPokemons\obj\Debug\10 - ListandoPokemons.csproj.AssemblyReference.cache
+E:\Users\thall\Desktop\POO\10 - ListandoPokemons\obj\Debug\10 - ListandoPokemons.csproj.SuggestedBindingRedirects.cache
+E:\Users\thall\Desktop\POO\10 - ListandoPokemons\obj\Debug\10 - ListandoPokemons.csproj.CoreCompileInputs.cache
+E:\Users\thall\Desktop\POO\10 - ListandoPokemons\obj\Debug\10 - ListandoPokemons.exe
+E:\Users\thall\Desktop\POO\10 - ListandoPokemons\obj\Debug\10 - ListandoPokemons.pdb

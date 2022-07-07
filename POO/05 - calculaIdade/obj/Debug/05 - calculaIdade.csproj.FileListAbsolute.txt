@@ -1,0 +1,8 @@
+E:\Users\thall\Desktop\POO\05 - calculaIdade\bin\Debug\05 - calculaIdade.exe.config
+E:\Users\thall\Desktop\POO\05 - calculaIdade\bin\Debug\05 - calculaIdade.exe
+E:\Users\thall\Desktop\POO\05 - calculaIdade\bin\Debug\05 - calculaIdade.pdb
+E:\Users\thall\Desktop\POO\05 - calculaIdade\obj\Debug\05 - calculaIdade.csproj.AssemblyReference.cache
+E:\Users\thall\Desktop\POO\05 - calculaIdade\obj\Debug\05 - calculaIdade.csproj.SuggestedBindingRedirects.cache
+E:\Users\thall\Desktop\POO\05 - calculaIdade\obj\Debug\05 - calculaIdade.csproj.CoreCompileInputs.cache
+E:\Users\thall\Desktop\POO\05 - calculaIdade\obj\Debug\05 - calculaIdade.exe
+E:\Users\thall\Desktop\POO\05 - calculaIdade\obj\Debug\05 - calculaIdade.pdb

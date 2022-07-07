@@ -1,0 +1,8 @@
+E:\Users\thall\Desktop\POO\8 - SobrecargaDeMembros-Metodos\bin\Debug\8 - SobrecargaDeMembros-Metodos.exe.config
+E:\Users\thall\Desktop\POO\8 - SobrecargaDeMembros-Metodos\bin\Debug\8 - SobrecargaDeMembros-Metodos.exe
+E:\Users\thall\Desktop\POO\8 - SobrecargaDeMembros-Metodos\bin\Debug\8 - SobrecargaDeMembros-Metodos.pdb
+E:\Users\thall\Desktop\POO\8 - SobrecargaDeMembros-Metodos\obj\Debug\8 - SobrecargaDeMembros-Metodos.csproj.AssemblyReference.cache
+E:\Users\thall\Desktop\POO\8 - SobrecargaDeMembros-Metodos\obj\Debug\8 - SobrecargaDeMembros-Metodos.csproj.SuggestedBindingRedirects.cache
+E:\Users\thall\Desktop\POO\8 - SobrecargaDeMembros-Metodos\obj\Debug\8 - SobrecargaDeMembros-Metodos.csproj.CoreCompileInputs.cache
+E:\Users\thall\Desktop\POO\8 - SobrecargaDeMembros-Metodos\obj\Debug\8 - SobrecargaDeMembros-Metodos.exe
+E:\Users\thall\Desktop\POO\8 - SobrecargaDeMembros-Metodos\obj\Debug\8 - SobrecargaDeMembros-Metodos.pdb

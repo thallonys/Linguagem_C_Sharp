@@ -1,0 +1,8 @@
+E:\Users\thall\Desktop\POO\6.2 - exercicioAreaTriangulo\bin\Debug\6.2 - exercicioAreaTriangulo.exe.config
+E:\Users\thall\Desktop\POO\6.2 - exercicioAreaTriangulo\bin\Debug\6.2 - exercicioAreaTriangulo.exe
+E:\Users\thall\Desktop\POO\6.2 - exercicioAreaTriangulo\bin\Debug\6.2 - exercicioAreaTriangulo.pdb
+E:\Users\thall\Desktop\POO\6.2 - exercicioAreaTriangulo\obj\Debug\6.2 - exercicioAreaTriangulo.csproj.AssemblyReference.cache
+E:\Users\thall\Desktop\POO\6.2 - exercicioAreaTriangulo\obj\Debug\6.2 - exercicioAreaTriangulo.csproj.SuggestedBindingRedirects.cache
+E:\Users\thall\Desktop\POO\6.2 - exercicioAreaTriangulo\obj\Debug\6.2 - exercicioAreaTriangulo.csproj.CoreCompileInputs.cache
+E:\Users\thall\Desktop\POO\6.2 - exercicioAreaTriangulo\obj\Debug\6.2 - exercicioAreaTriangulo.exe
+E:\Users\thall\Desktop\POO\6.2 - exercicioAreaTriangulo\obj\Debug\6.2 - exercicioAreaTriangulo.pdb

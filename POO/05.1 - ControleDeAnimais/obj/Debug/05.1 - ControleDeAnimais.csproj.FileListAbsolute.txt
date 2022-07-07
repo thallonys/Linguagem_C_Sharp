@@ -1,0 +1,8 @@
+E:\Users\thall\Desktop\POO\05.1 - ControleDeAnimais\obj\Debug\05.1 - ControleDeAnimais.csproj.AssemblyReference.cache
+E:\Users\thall\Desktop\POO\05.1 - ControleDeAnimais\obj\Debug\05.1 - ControleDeAnimais.csproj.SuggestedBindingRedirects.cache
+E:\Users\thall\Desktop\POO\05.1 - ControleDeAnimais\obj\Debug\05.1 - ControleDeAnimais.csproj.CoreCompileInputs.cache
+E:\Users\thall\Desktop\POO\05.1 - ControleDeAnimais\bin\Debug\05.1 - ControleDeAnimais.exe.config
+E:\Users\thall\Desktop\POO\05.1 - ControleDeAnimais\bin\Debug\05.1 - ControleDeAnimais.exe
+E:\Users\thall\Desktop\POO\05.1 - ControleDeAnimais\bin\Debug\05.1 - ControleDeAnimais.pdb
+E:\Users\thall\Desktop\POO\05.1 - ControleDeAnimais\obj\Debug\05.1 - ControleDeAnimais.exe
+E:\Users\thall\Desktop\POO\05.1 - ControleDeAnimais\obj\Debug\05.1 - ControleDeAnimais.pdb

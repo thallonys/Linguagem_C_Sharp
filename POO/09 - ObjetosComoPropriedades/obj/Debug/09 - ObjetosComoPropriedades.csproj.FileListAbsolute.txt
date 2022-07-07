@@ -1,0 +1,8 @@
+E:\Users\thall\Desktop\POO\09 - ObjetosComoPropriedades\bin\Debug\09 - ObjetosComoPropriedades.exe.config
+E:\Users\thall\Desktop\POO\09 - ObjetosComoPropriedades\bin\Debug\09 - ObjetosComoPropriedades.exe
+E:\Users\thall\Desktop\POO\09 - ObjetosComoPropriedades\bin\Debug\09 - ObjetosComoPropriedades.pdb
+E:\Users\thall\Desktop\POO\09 - ObjetosComoPropriedades\obj\Debug\09 - ObjetosComoPropriedades.csproj.AssemblyReference.cache
+E:\Users\thall\Desktop\POO\09 - ObjetosComoPropriedades\obj\Debug\09 - ObjetosComoPropriedades.csproj.SuggestedBindingRedirects.cache
+E:\Users\thall\Desktop\POO\09 - ObjetosComoPropriedades\obj\Debug\09 - ObjetosComoPropriedades.csproj.CoreCompileInputs.cache
+E:\Users\thall\Desktop\POO\09 - ObjetosComoPropriedades\obj\Debug\09 - ObjetosComoPropriedades.exe
+E:\Users\thall\Desktop\POO\09 - ObjetosComoPropriedades\obj\Debug\09 - ObjetosComoPropriedades.pdb

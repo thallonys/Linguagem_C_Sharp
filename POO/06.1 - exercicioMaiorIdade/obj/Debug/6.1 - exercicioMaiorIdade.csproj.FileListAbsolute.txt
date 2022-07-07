@@ -1,0 +1,8 @@
+E:\Users\thall\Desktop\POO\6.1 - exercicioMaiorIdade\bin\Debug\6.1 - exercicioMaiorIdade.exe.config
+E:\Users\thall\Desktop\POO\6.1 - exercicioMaiorIdade\bin\Debug\6.1 - exercicioMaiorIdade.exe
+E:\Users\thall\Desktop\POO\6.1 - exercicioMaiorIdade\bin\Debug\6.1 - exercicioMaiorIdade.pdb
+E:\Users\thall\Desktop\POO\6.1 - exercicioMaiorIdade\obj\Debug\6.1 - exercicioMaiorIdade.csproj.AssemblyReference.cache
+E:\Users\thall\Desktop\POO\6.1 - exercicioMaiorIdade\obj\Debug\6.1 - exercicioMaiorIdade.csproj.SuggestedBindingRedirects.cache
+E:\Users\thall\Desktop\POO\6.1 - exercicioMaiorIdade\obj\Debug\6.1 - exercicioMaiorIdade.csproj.CoreCompileInputs.cache
+E:\Users\thall\Desktop\POO\6.1 - exercicioMaiorIdade\obj\Debug\6.1 - exercicioMaiorIdade.exe
+E:\Users\thall\Desktop\POO\6.1 - exercicioMaiorIdade\obj\Debug\6.1 - exercicioMaiorIdade.pdb

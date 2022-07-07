@@ -1,0 +1,8 @@
+E:\Users\thall\Desktop\POO\02 - POOMensagem\bin\Debug\02 - POOMensagem.exe.config
+E:\Users\thall\Desktop\POO\02 - POOMensagem\bin\Debug\02 - POOMensagem.exe
+E:\Users\thall\Desktop\POO\02 - POOMensagem\bin\Debug\02 - POOMensagem.pdb
+E:\Users\thall\Desktop\POO\02 - POOMensagem\obj\Debug\02 - POOMensagem.csproj.AssemblyReference.cache
+E:\Users\thall\Desktop\POO\02 - POOMensagem\obj\Debug\02 - POOMensagem.csproj.SuggestedBindingRedirects.cache
+E:\Users\thall\Desktop\POO\02 - POOMensagem\obj\Debug\02 - POOMensagem.csproj.CoreCompileInputs.cache
+E:\Users\thall\Desktop\POO\02 - POOMensagem\obj\Debug\02 - POOMensagem.exe
+E:\Users\thall\Desktop\POO\02 - POOMensagem\obj\Debug\02 - POOMensagem.pdb
