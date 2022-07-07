@@ -1,0 +1,8 @@
+E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\Fundamentos de Programação\Capítulo 3\Resolvidos\3.05\bin\Debug\3.05.exe.config
+E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\Fundamentos de Programação\Capítulo 3\Resolvidos\3.05\bin\Debug\3.05.exe
+E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\Fundamentos de Programação\Capítulo 3\Resolvidos\3.05\bin\Debug\3.05.pdb
+E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\Fundamentos de Programação\Capítulo 3\Resolvidos\3.05\obj\Debug\3.05.csproj.AssemblyReference.cache
+E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\Fundamentos de Programação\Capítulo 3\Resolvidos\3.05\obj\Debug\3.05.csproj.SuggestedBindingRedirects.cache
+E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\Fundamentos de Programação\Capítulo 3\Resolvidos\3.05\obj\Debug\3.05.csproj.CoreCompileInputs.cache
+E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\Fundamentos de Programação\Capítulo 3\Resolvidos\3.05\obj\Debug\3.05.exe
+E:\OneDrive - SENAC - SP\GitHub\Linguagem_C_Sharp\Exercícios\Fundamentos de Programação\Capítulo 3\Resolvidos\3.05\obj\Debug\3.05.pdb

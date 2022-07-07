@@ -1,8 +1,0 @@
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\Exercícios - Fundamentos de Programação\Capítulo03\Resolvidos\exerResolvido02\exerResolvido02\bin\Debug\exerResolvido02.exe.config
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\Exercícios - Fundamentos de Programação\Capítulo03\Resolvidos\exerResolvido02\exerResolvido02\bin\Debug\exerResolvido02.exe
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\Exercícios - Fundamentos de Programação\Capítulo03\Resolvidos\exerResolvido02\exerResolvido02\bin\Debug\exerResolvido02.pdb
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\Exercícios - Fundamentos de Programação\Capítulo03\Resolvidos\exerResolvido02\exerResolvido02\obj\Debug\exerResolvido02.csproj.AssemblyReference.cache
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\Exercícios - Fundamentos de Programação\Capítulo03\Resolvidos\exerResolvido02\exerResolvido02\obj\Debug\exerResolvido02.csproj.SuggestedBindingRedirects.cache
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\Exercícios - Fundamentos de Programação\Capítulo03\Resolvidos\exerResolvido02\exerResolvido02\obj\Debug\exerResolvido02.csproj.CoreCompileInputs.cache
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\Exercícios - Fundamentos de Programação\Capítulo03\Resolvidos\exerResolvido02\exerResolvido02\obj\Debug\exerResolvido02.exe
-E:\OneDrive - SENAC - SP\GitHub\Estudos\Linguagens\C#\Exercícios - Fundamentos de Programação\Capítulo03\Resolvidos\exerResolvido02\exerResolvido02\obj\Debug\exerResolvido02.pdb
